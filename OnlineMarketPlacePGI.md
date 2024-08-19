@@ -1,7 +1,7 @@
 # Project General Information
 
-Group Name: GROUP NAME
-Project Title: SYSTEM NAME
+Group Name: GROUP 14
+Project Title: Online Marketplace 
 
 ## A. Problem Statement:
 
